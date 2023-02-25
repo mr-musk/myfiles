@@ -26,10 +26,27 @@
 	
 	
     {
-        "Hospital Name" : "THE IBN SINA",
+        "Hospital Name" : "THE IBN SINA Hospital",
         "Place" : "Sylhet",
         "Contact Number": "10615",
 		"Img" : "https://3.bp.blogspot.com/-kcDOgJdX0Jg/WAHGzyxKjbI/AAAAAAAADtk/c9t54r3oxu0vuTVC8co0QOeMNQvVAX6lQCLcB/s1600/IBN-SINA-LOGO.jpg"
+    }
+	
+	
+	{
+        "Hospital Name" : "Mother Care Hospital",
+        "Place" : "Sylhet",
+        "Contact Number": "04924-227700",
+		"Img" : "https://content.jdmagicbox.com/comp/morbi/m3/9999p2822.2822.191121024510.t7m3/catalogue/mothercare-hospital-morbi-0nayhhc0ag.jpg"
+    },
+	
+	
+	
+	{
+        "Hospital Name" : "North east medical college & hospital",
+        "Place" : "Sylhet",
+        "Contact Number": "04924-227700",
+		"Img" : "https://www.nemc.edu.bd/wp-content/uploads/2020/12/nemch_logo3.jpg"
     }
     
     
