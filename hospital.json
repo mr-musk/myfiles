@@ -4,7 +4,7 @@
         "Hospital Name" : "mount adora hospital",
         "Place" : "Sylhet",
         "Contact Number": "+8801786-637476",
-	"Img" : "https://mountadora.com/wp-content/uploads/2019/07/Logo-500x500_vectorized.png"
+		"Img" : "https://mountadora.com/wp-content/uploads/2019/07/Logo-500x500_vectorized.png"
     },
     
     
@@ -12,7 +12,7 @@
         "Hospital Name" : "Popular Medical Centre",
         "Place" : "Sylhet",
         "Contact Number": "09613 787801",
-	"Img" : "https://doccarebd.com/wp-content/uploads/2023/01/popular_medical_center_ltd.png"
+		"Img" : "https://doccarebd.com/wp-content/uploads/2023/01/popular_medical_center_ltd.png"
     },
     
     
@@ -20,7 +20,16 @@
         "Hospital Name" : "Al Haramain Hospital Pvt. Ltd.",
         "Place" : "Sylhet",
         "Contact Number": "+88 019 3122 5555",
-	"Img" : "https://www.haramainhospital.com/wp-content/uploads/2020/09/cropped-website-512-x-512-square.png"
+		"Img" : "https://www.haramainhospital.com/wp-content/uploads/2020/09/cropped-website-512-x-512-square.png"
+    },
+	
+	
+	
+    {
+        "Hospital Name" : "THE IBN SINA",
+        "Place" : "Sylhet",
+        "Contact Number": "10615",
+		"Img" : "https://3.bp.blogspot.com/-kcDOgJdX0Jg/WAHGzyxKjbI/AAAAAAAADtk/c9t54r3oxu0vuTVC8co0QOeMNQvVAX6lQCLcB/s1600/IBN-SINA-LOGO.jpg"
     }
     
     
