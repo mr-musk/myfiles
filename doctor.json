@@ -1,6 +1,6 @@
 [
     
-    {
+    	{
         "DrName" : "Dr.Rina Akther",
         "Experts on" : "Gynecologist",
         "Appointment": "+8801742215682",
@@ -9,10 +9,26 @@
 	
 	
 	{
-        "DrName" : "Dr.Rina Akther",
-        "Experts on" : "Gynecologist",
-        "Appointment": "+8801742215682",
-	"Img" : "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Rina-Akther.jpg"
+        "DrName" : "Dr. Abdus Samad",
+        "Experts on" : "Orthopaedic Surgery Specialist",
+        "Appointment": "+8801306607406",
+	"Img" : "https://www.daktars.com/uploads/doctor/avatar/32/samad.png"
+    },
+	
+	
+	{
+        "DrName" : "Dr. Fahmida Chowdhury",
+        "Experts on" : "Child Specialist",
+        "Appointment": "+8801880593620",
+	"Img" : "https://www.daktars.com/images/fallback/doctor_default.png"
+    },
+	
+	
+	{
+        "DrName" : "Dr. Ahmed Riad Chowdhury",
+        "Experts on" : "Psychiatry Specialist",
+        "Appointment": "+8801797216967",
+	"Img" : "https://www.daktars.com/uploads/doctor/avatar/65/07ahmed.png"
     }
     
     
