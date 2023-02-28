@@ -29,6 +29,22 @@
         "Experts on" : "Psychiatry Specialist",
         "Appointment": "+8801797216967",
 	"Img" : "https://www.daktars.com/uploads/doctor/avatar/65/07ahmed.png"
+    },
+
+	
+	{
+        "DrName" : "Dr. Nurul Afsar Badrul",
+        "Experts on" : "Diabetes, Medicine & Heart Specialist",
+        "Appointment": "+8801708399305",
+	"Img" : "https://www.daktars.com/images/fallback/doctor_default.png"
+    },
+	
+	
+	{
+        "DrName" : "Dr. Naznin Akther",
+        "Experts on" : "Child Specialist",
+        "Appointment": "+8801302629979",
+	"Img" : "https://www.daktars.com/images/fallback/doctor_default.png"
     }
     
     
